@@ -97,11 +97,12 @@ class _CartScreenState extends State<CartScreen> {
             TextButton(
               onPressed: () {
                 cartProvider.items.clear();
-                Navigator.pushReplacement(
+                Navigator.pushAndRemoveUntil(
                   context,
                   MaterialPageRoute(
                     builder: (context) => const ProductListScreen(),
                   ),
+                  (route) => false,
                 );
               },
               child: const Text(
