@@ -1,0 +1,5 @@
+-keep class com.bumptech.glide.** { *; }
+-keep class com.dylanvann.fastimage.** { *; }
+-keepattributes Signature
+-dontwarn okhttp3.**
+-dontwarn com.bumptech.glide.**
