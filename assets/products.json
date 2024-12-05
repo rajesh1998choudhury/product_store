@@ -1,0 +1,65 @@
+[ 
+	{
+		"id":1,
+		"name":"Cabbage",
+		"description":"Cabbage is a hardy, leafy vegetable that forms a compact, round head. It is native to southern Europe but can be grown in tropical or semi-tropical areas in cooler highlands where the winters are mild and there is a good supply of moisture",
+		"imageUrl":"https://www.freepngimg.com/thumb/categories/2970.png",
+		"price": 30
+	},
+	{
+		"id":2,
+		"name":"Capsicum",
+		"description":"Capsicum spp. is a genus of flowering plants in the nightshade family (Solanaceae) and has many subspecies, varieties and cultivars. The common names of Capsicum encompass cayenne pepper, tabasco pepper, red pepper, hot pepper, chili pepper, paprika, cayenne, Hungarian pepper, and pimento pepper (Charles, 2012).",
+		"imageUrl":"https://www.nicepng.com/png/detail/52-525615_green-bell-pepper-png-green-capsicum-png.png",
+		"price": 95
+	},
+	{
+		"id":3,
+		"name":"Garlic",
+		"description":"A herb growing from a strongly aromatic, rounded bulb composed of around 10 to 20 cloves covered in a papery coat. The long, sword-shaped leaves are attached to an underground stem and the greenish-white or pinkish flowers grow in dense, spherical clusters atop a flower stalk.",
+		"imageUrl":"https://www.freepngimg.com/thumb/garlic/2-2-garlic-transparent-thumb.png",
+		"price": 20
+	},
+	{
+		"id":4,
+		"name":"Beetroot",
+		"description":"nearly white or orange. Beetroots should be smooth, firm, and unblemished; medium-sized specimens are the most tender.",
+		"imageUrl":"https://pngimg.com/uploads/beet/beet_PNG28.png",
+		"price": 100
+	},
+	{
+		"id":5,
+		"name":"Tomatoes",
+		"description":"Tomato is a perennial herbaceous plant but it is often grown as an annual crop even if biennial and perennial forms exist. Tomato is cultivated in tropical and temperate climates in open field or under greenhouse in temperate climate. Greenhouses are often used for large-scale production.",
+		"imageUrl":"https://www.freepngimg.com/thumb/categories/2985.png",
+		"price": 59
+	},
+	{
+		"id":6,
+		"name":"Celeriac",
+		"description":"Celeriac is well known for its strange appearance. It looks similar to a misshapen turnip and is off-white with a rough, knobby surface covered in tiny rootlets. Its smooth, white flesh is similar to a potato. The leaves and stalk of the plant grow above ground and resemble celery.",
+		"imageUrl":"https://w7.pngwing.com/pngs/252/146/png-transparent-celeriac-leaf-vegetable-food-celery-herbes-leaf-vegetable-food-plant-stem-thumbnail.png",
+		"price": 53
+	},
+	{
+		"id":7,
+		"name":"Carrots",
+		"description":"Carrot is a biennial, belonging to the family Apiaceae, and is an important vegetable for its fleshy edible, colorful roots. It varies in colour from white, yellow, orange, light purple, deep red to deep violet.",
+		"imageUrl":"https://www.freepngimg.com/thumb/categories/2971.png",
+		"price": 85
+	},
+	{
+		"id":8,
+		"name":"Onions",
+		"description":"onion, Herbaceous biennial plant (Allium cepa) of the family Alliaceae, probably native to southwestern Asia but now grown worldwide, and its edible bulb. Among the hardiest and oldest garden vegetable plants, onions bear a cluster of small, greenish white flowers on one or more leafless stalks.",
+		"imageUrl":"https://www.freepngimg.com/thumb/onion/10-red-onion-png-image-thumb.png",
+		"price": 120
+	},
+	{
+		"id":9,
+		"name":"Potatoes",
+		"description":"Potato fruits are a succulent but inedible spherical, yellow-green berry, up to 4cm across. Underground, the edible root forms a tuber that can be a range of colours, sizes and shapes, depending on the cultivated variety (cultivar).",
+		"imageUrl":"https://www.freepngimg.com/thumb/potato/7-potato-png-images-pictures-download-thumb.png",
+		"price": 60
+	}
+]
